@@ -1,0 +1,19 @@
+April 1 2020:
+
+	Capabilities:
+		Normal emails
+		Holidays sometimes work...
+		
+	Need to check:
+		Holidays
+		Pre-recordings
+		Birthdays
+		All Runner options
+
+	Add:
+		Special week check & way to load
+		Web communication
+		Button pressing
+		speech use
+		easy load from form to file
+
